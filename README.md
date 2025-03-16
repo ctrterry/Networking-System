@@ -75,11 +75,11 @@ project_root/
 
 ## Project Screenshots
 
-![DNS Client Instructions](images/dns_client_instructions.png)
+![DNS Client](images/dns_client_instructions.png)
+
+![Performance of Formula](images/metrix_formula.png)
 
 ![Congestion Control Instructions](images/congestion_control_instructions.png)
-
-![BGP Analysis Instructions](images/bgp_analysis_instructions.png)
 
 ---
 
